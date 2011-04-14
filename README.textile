@@ -1,0 +1,10 @@
+h1. tinymce_filemanager_sample
+
+This is just sample project, that shows propely installed
+tinymce_filemanager plugin in rails application.
+
+Complete instruction can be found on "Trackin
+Rails":http://trackingrails.com blog.
+
+tinymce_filemanager is hosted on GitHub here:
+"https://github.com/galdomedia/tinymce_filemanager":https://github.com/galdomedia/tinymce_filemanager
