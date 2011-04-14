@@ -4,7 +4,7 @@ This is just sample project, that shows propely installed
 tinymce_filemanager plugin in rails application.
 
 Complete instruction can be found on "Trackin
-Rails":http://trackingrails.com blog.
+Rails":http://trackingrails.com blog (post "here":http://trackingrails.com/posts/managing-images-directly-from-tinymce-tinymcefilemanager )
 
 tinymce_filemanager is hosted on GitHub here:
 "https://github.com/galdomedia/tinymce_filemanager":https://github.com/galdomedia/tinymce_filemanager
